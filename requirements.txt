@@ -1,0 +1,8 @@
+azure-identity
+azure-search-documents
+langchain-chroma
+langchain-community
+langchain_core
+langchain-openai
+pypdf
+python-dotenv
